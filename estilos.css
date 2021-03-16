@@ -1,0 +1,43 @@
+button, #boton{
+	background:#3dff8b;
+	color:#1f1f1f;
+	font-size:12pt;
+	font-weight:bold;
+	width:170px;
+	height:30px;
+	border-radius:12px;
+}
+
+button:hover, #boton:hover{
+	background:#2874A6;
+	color:blue;
+}
+
+table{
+	border:3px solid #86dbda;
+	width:80%;
+	background:#E5DEFC;
+}
+
+td,tr {
+	border:1px solid #4507F8;
+}
+
+p {
+	background:#ebebeb;
+	font-size:20pt;
+	text-align:center;
+	color:#4507F8;
+	font-weight:bold;
+	width:90%;
+	border-radius:7px;
+}
+
+.campo{
+	background:blue;
+	color:white;
+	font-size:14pt;
+	font-weight:bold;
+	border-radius:7px;
+	text-align:center;
+}
